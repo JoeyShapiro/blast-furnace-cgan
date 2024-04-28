@@ -4,4 +4,4 @@
 - [ ] convert numpy to image or something in purest form
 - [ ] test with raw values
 - [ ] normalize various parts
-- [ ] get graphs of stats
+- [x] get graphs of stats
