@@ -1,0 +1,7 @@
+- [x] git repo
+- [ ] download files in `download=True`
+- [ ] convert list to dataframe
+- [ ] convert numpy to image or something in purest form
+- [ ] test with raw values
+- [ ] normalize various parts
+- [ ] get graphs of stats
