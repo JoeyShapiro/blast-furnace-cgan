@@ -1,7 +1,8 @@
 - [x] git repo
 - [ ] download files in `download=True`
-- [ ] convert list to dataframe
+- [x] convert list to dataframe
 - [ ] convert numpy to image or something in purest form
 - [ ] test with raw values
-- [ ] normalize various parts
+- [x] normalize various parts
 - [x] get graphs of stats
+- [ ] critic loss (will have more points on graph than gen)
