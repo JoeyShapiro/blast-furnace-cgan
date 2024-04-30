@@ -2,16 +2,15 @@
 - [ ] download files in `download=True`
 - [x] convert list to dataframe
 - [ ] convert numpy to image or something in purest form
-- [ ] test with raw values
+- [x] test with raw values (its bad)
 - [x] normalize various parts
 - [x] get graphs of stats
 - [ ] critic loss (will have more points on graph than gen)
-- [ ] display gpu used
-- [ ] add a timer
-- [ ] save when timer is up
-- [ ] or save every so often
-- [ ] save on time
-- [ ] stop after time interval
+- [x] display gpu used
+- [x] add a timer
+- [x] save when timer is up
+- [x] or save every so often
+- [x] stop after time interval
 - [ ] remove padding. its a waste
 - [ ] add certainty
 - [ ] custom sizes
