@@ -12,3 +12,5 @@
 - [ ] or save every so often
 - [ ] save on time
 - [ ] stop after time interval
+- [ ] remove padding. its a waste
+- [ ] add certainty
