@@ -6,3 +6,4 @@
 - [x] normalize various parts
 - [x] get graphs of stats
 - [ ] critic loss (will have more points on graph than gen)
+- [ ] display gpu used
