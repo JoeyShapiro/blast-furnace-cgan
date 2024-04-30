@@ -14,3 +14,4 @@
 - [ ] stop after time interval
 - [ ] remove padding. its a waste
 - [ ] add certainty
+- [ ] custom sizes
