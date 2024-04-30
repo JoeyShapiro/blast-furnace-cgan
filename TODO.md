@@ -7,3 +7,6 @@
 - [x] get graphs of stats
 - [ ] critic loss (will have more points on graph than gen)
 - [ ] display gpu used
+- [ ] add a timer
+- [ ] save when timer is up
+- [ ] or save every so often
