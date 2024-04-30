@@ -10,3 +10,5 @@
 - [ ] add a timer
 - [ ] save when timer is up
 - [ ] or save every so often
+- [ ] save on time
+- [ ] stop after time interval
