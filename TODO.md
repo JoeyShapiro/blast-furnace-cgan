@@ -14,3 +14,4 @@
 - [ ] remove padding. its a waste
 - [ ] add certainty
 - [ ] custom sizes
+- [ ] do a funny resize; this will mean less padding
