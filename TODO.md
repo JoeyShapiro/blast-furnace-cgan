@@ -16,3 +16,5 @@
 - [ ] custom sizes
 - [x] do a funny resize; this will mean less padding
 - [ ] save images
+- [ ] force images in jupyter
+- [ ] save losses
