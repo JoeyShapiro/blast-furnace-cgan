@@ -18,3 +18,8 @@
 - [ ] save images
 - [ ] force images in jupyter
 - [ ] save losses
+- [ ] remove unused fields
+- [ ] look at sample data
+- [ ] see if some have an inc pattern
+- [ ] get unique amount of points
+- [ ] see if i can see a pattern in the data
