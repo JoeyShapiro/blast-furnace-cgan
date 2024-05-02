@@ -5,13 +5,14 @@
 - [x] test with raw values (its bad)
 - [x] normalize various parts
 - [x] get graphs of stats
-- [ ] critic loss (will have more points on graph than gen)
+- [x] critic loss (will have more points on graph than gen)
 - [x] display gpu used
 - [x] add a timer
 - [x] save when timer is up
 - [x] or save every so often
 - [x] stop after time interval
-- [ ] remove padding. its a waste
+- [x] remove padding. its a waste
 - [ ] add certainty
 - [ ] custom sizes
-- [ ] do a funny resize; this will mean less padding
+- [x] do a funny resize; this will mean less padding
+- [ ] save images
