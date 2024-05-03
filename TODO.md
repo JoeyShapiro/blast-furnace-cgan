@@ -24,3 +24,4 @@
 - [x] get unique amount of points
 - [x] see if i can see a pattern in the data
 - [ ] make encode/decode functions
+- [ ] load latest checkpoint (by file time)
