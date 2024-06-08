@@ -25,3 +25,7 @@
 - [x] see if i can see a pattern in the data
 - [ ] make encode/decode functions
 - [ ] load latest checkpoint (by file time)
+
+- [ ] clean up variables
+- [ ] try custom sizes
+- [ ] try to get different pooling
