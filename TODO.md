@@ -29,3 +29,6 @@
 - [ ] clean up variables
 - [ ] try custom sizes
 - [ ] try to get different pooling
+- [ ] critic as the original image
+- [ ] find a lossless way to scale the image
+- [ ] ai upscaler
