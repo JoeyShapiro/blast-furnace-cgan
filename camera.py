@@ -45,7 +45,7 @@ def concat_images_resize_and_pad(image_paths, output_path, target_height=None, s
     return concatenated
 
 # Usage with 20px spacing
-models = ['bce', 'scratch', 'resnet']
+models = ['bce', 'scratch', 'resnet', 'mod']
 metrics = ['ssim', 'fid', 'psnr']
 for metric in metrics:
     imgs = [f'papers/images/{model}-{metric}.png' for model in models]
